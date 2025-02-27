@@ -4,7 +4,16 @@
     </a>
 </p>
 
-# Laravel Docker Starter Template
+# Laravel Docker 
+_In this project, my goal was to learn how to run Laravel with Docker. It has since become a solid starting point for anyone looking to set up Laravel in a Dockerized environment for seamless development and deployment_
+
+## **Table of Contents** 📌  
+- [Features](#features)  
+- [Prerequisites](#prerequisites)  
+- [Setup Instructions](#setup_instructions)  
+- [Accessing Services](#accessing_services)  
+- [Todo](#todo)  
+- [Credit](#credit)  
 
 ## Features
 This starter template includes the following services:

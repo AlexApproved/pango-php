@@ -10,8 +10,8 @@ _In this project, my goal was to learn how to run Laravel with Docker. It has si
 ## **Table of Contents** 📌  
 - [Features](#features)  
 - [Prerequisites](#prerequisites)  
-- [Setup Instructions](#setup_instructions)  
-- [Accessing Services](#accessing_services)  
+- [Setup Instructions](#setup-instructions)  
+- [Accessing Services](#accessing-services)  
 - [Todo](#todo)  
 - [Credit](#credit)  
 

@@ -11,7 +11,8 @@ _In this project, my goal was to learn how to run Laravel with Docker. It has si
 - [Features](#features)  
 - [Prerequisites](#prerequisites)  
 - [Setup Instructions](#setup-instructions)  
-- [Accessing Services](#accessing-services)  
+- [Accessing Services](#accessing-services)
+- [Handy Laravel Commands](#handy-laravel-commands)
 - [Todo](#todo)  
 - [Credit](#credit)  
 
